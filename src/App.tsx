@@ -121,13 +121,9 @@ const App = () => {
           <header className="card" id="link1">
             <div style={{ padding: "0 24px 0 24px 0" }}>
               <h3 className="text-secondary-color">Welcome To</h3>
-              <h1 className="pb-3">The Boiler Plate</h1>
+              <h1 className="pb-3">The Non-Pokemon NFT mint website </h1>
               <p className="text-secondary-color">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam
-                scelerisque ipsum non est porta mollis. Donec sapien sapien, dictum
-                eget enim sed, hendrerit semper orci. Donec ante magna, consequat at
-                eros ac, eleifend dictum sem. Nam vitae condimentum lorem.
-                Vestibulum molestie dui turpis, tincidunt porta sem congue nec.
+                It's not just a Pokemn NFT minting Website. It can mint 10 NFT's in total.
               </p>
             </div>
             <div>
